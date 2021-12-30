@@ -1,5 +1,5 @@
-# MTReto1
-Conversión de espacios de color.
+# Espacios de Color
+Conversión de espacios de color rva, YIC YCbCr.
 
 ## Requisitos del software
 |R1:Convertir de YIQ a rva|
