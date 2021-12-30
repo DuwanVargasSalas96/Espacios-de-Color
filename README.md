@@ -1,5 +1,5 @@
 # Espacios de Color
-Conversión de espacios de color rva, YIC YCbCr.
+Conversión de espacios de color rva, YIC y YCbCr.
 
 ## Requisitos del software
 |R1:Convertir de YIQ a rva|
